@@ -1,0 +1,12 @@
+2026-03-24 14:51:18,111 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2026-03-24 14:51:18,316 - db_helper - INFO - fetch_expenses_for_date called with 9999-08-15
+2026-03-24 14:51:18,348 - db_helper - INFO - fetch_expense_summary called with start: 2099-01-01 end: 2099-12-31
+2026-03-30 13:14:18,516 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-03-30 13:14:30,916 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-03-30 13:14:31,842 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-03-30 13:14:33,995 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-03-30 13:18:38,422 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-03-30 13:18:40,627 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-03-30 16:05:17,377 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-03-30 16:07:14,012 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-03-30 16:07:16,236 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
